@@ -3,7 +3,7 @@ import app as app
 import textwrap
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "paste your API key"
 openai_api_key = os.environ["OPENAI_API_KEY"]
 
 st.title("Youtube Assistant")
