@@ -45,7 +45,7 @@ YouTube Video Assistant is a web application that leverages the power of languag
 
 ## Contributors
 
-- [Your Name](https://github.com/Rafe2001)
+- [Rafe Khan](https://github.com/Rafe2001)
 
 ## License
 
