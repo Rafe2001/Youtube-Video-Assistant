@@ -58,10 +58,5 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For questions, issues, or feature requests, please [open an issue](https://github.com/Rafe2001/youtube-video-assistant/issues).
+For questions, issues, or feature requests, please [open an issue](https://github.com/Rafe2001/Youtube-Video-Assistant/issues).
 
----
-
-**Note**: This README is a template. Replace the content with details specific to your project.
-
-```
